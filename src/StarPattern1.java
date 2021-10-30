@@ -1,6 +1,7 @@
 public class StarPattern1 {
     public static void main(String[] args) {
         //Star pattern on upper right side
+        System.out.println("Printing star pattern");
         int arr5[][] = new int[4][4];
         for (int i = 0; i < 4; i++) {
             System.out.println();
